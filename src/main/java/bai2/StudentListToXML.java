@@ -8,9 +8,9 @@ public class StudentListToXML {
     public static void main(String[] args) {
 
         Student[] students = {
-                new Student("John Doe", 20, 3.8),
-                new Student("Jane Smith", 21, 3.9),
-                new Student("Michael Johnson", 22, 3.6)
+                new Student("hoang", 20, 3.8),
+                new Student("hoa", 21, 3.9),
+                new Student("hong", 22, 3.6)
         };
 
 
